@@ -1,0 +1,11 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+/ApimaticReadUsers/bin
+/ApimaticReadUsers/obj
+/Common/appsettings.json
+/Common/bin
+/Common/obj
+/InsertRecords/local.settings.json
+/InsertRecords/bin
+/InsertRecords/obj
